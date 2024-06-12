@@ -1,1 +1,2 @@
-# Power-BI-Projects
+# Power-BI-Project1:-
+This is my first project on Employee Retention Rate. In this dashboard, I've illustrated key metrics such as the average retention rate across all departments and the average hourly rate for male research scientists. Additionally, it includes insightful statistics on attrition rate versus monthly income, average working years for each department, and the relationship between job roles and work-life balance. Moreover, it highlights the correlation between attrition rate and years since the last promotion. This comprehensive analysis provides valuable insights to improve employee satisfaction and retention strategies.
